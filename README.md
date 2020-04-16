@@ -5,4 +5,4 @@ For testing, you need:
 
 - Arduino IDE plataform
 - An Arduino and protoboard for testes
-- Or you can use (https://www.tinkercad.com/)[thinkercard] 
+- Or you can use [https://www.tinkercad.com/](thinkercard)
